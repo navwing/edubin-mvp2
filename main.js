@@ -142,8 +142,8 @@ function printData(returnData) {
     slidesToShow: 3,
     slidesToScroll: 1,
     prevArrow:
-      '<button class="next-arrow"><i class="fa-solid fa-angle-left"></i></button>',
+      '<button class="next-arrow1"><i class="fa-solid fa-angle-left"></i></button>',
     nextArrow:
-      '<button class="prev-arrow"><i class="fa-solid fa-angle-right"></i></button>',
+      '<button class="prev-arrow1"><i class="fa-solid fa-angle-right"></i></button>',
   });
 }

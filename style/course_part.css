@@ -212,7 +212,7 @@
   color: #8a8a8a;
 }
 
-.next-arrow {
+.next-arrow1 {
   left: 90%;
   font-size: 18px;
   line-height: 0;
@@ -231,7 +231,7 @@
   transition: .3s;
 }
 
-.prev-arrow {
+.prev-arrow1 {
   right: 25px;
   font-size: 18px;
   line-height: 0;
