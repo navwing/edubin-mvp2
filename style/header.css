@@ -199,14 +199,16 @@ a {
 }
 
 
-.navigation .navbar .navbar-nav {
+/* .navigation .navbar .navbar-nav {
     margin-left: 200px;
-}
+} */
 
 .right-icon ul li {
     display: inline;
 }
-.navigation .navbar .navbar-nav li .sub-menu li a.active, .navigation .navbar .navbar-nav li .sub-menu li a:hover {
+
+.navigation .navbar .navbar-nav li .sub-menu li a.active,
+.navigation .navbar .navbar-nav li .sub-menu li a:hover {
     padding-left: 20px;
     color: #ffc600;
 }
