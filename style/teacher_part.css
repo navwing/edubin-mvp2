@@ -29,7 +29,7 @@
     width: 36px;
     bottom: 0;
     left: 0;
-    border-bottom: 3px solid var(--primary-color);
+    border-bottom: 3px solid ;
   }
   
   .teacher-introduce_title h2 {
