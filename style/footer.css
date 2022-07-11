@@ -1,0 +1,143 @@
+#footer-part {
+    width: 100%;
+    position: relative;
+  }
+  
+  .footer-top {
+    width: 100%;
+    color: #fff;
+    background-color:#07294d ;
+  }
+  
+  .footer-top-container {
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    padding: 40px 24px;
+    flex-wrap: wrap;
+  
+  }
+  .footer-top-container a{
+    color: #fff;
+  }
+  .footer-top_about {
+    flex: 0 0 30%;
+    padding-right: 40px;
+    padding-bottom: 24px;
+  }
+  
+  .footer-top_about-img img {
+    object-fit: cover;
+  }
+  
+  .footer-top_about p {
+    padding-top: 16px;
+  }
+  
+  .footer-top_about-social {
+    margin-top: 20px;
+    display: flex;
+  }
+  
+  .footer-top_about-social a {
+    margin-right: 16px;
+    width: 36px;
+    height: 36px;
+    background-color: #021d3a;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .footer-top_about-social a :hover {
+    color: #ffc600;
+   
+  }
+  
+  .footer-top_sitemap {
+    flex: 0 0 20%;
+    padding-bottom: 24px;
+  }
+  
+  .footer-top_sitemap h3,
+  .footer-top_support h3,
+  .footer-top_contact h3 {
+    font-weight: bold;
+    font-size: 1.25rem;
+    padding-bottom: 24px;
+  }
+  
+  .footer-top_site-map-container {
+    display: flex;
+  }
+  
+  .footer-top_site-map-list {
+    flex: 0 0 50%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .footer-top_site-map-item {
+    display: flex;
+    align-items: center;
+    line-height: 36px;
+  }
+  
+  .footer-top_site-map-item i {
+    color: #ffc600;
+    font-size: 0.8rem;
+  }
+  
+  .footer-top_site-map-item a {
+    padding-left: 8px;
+  }
+  
+  .footer-top_site-map-item a:hover {
+    padding-left: 12px;
+    color: #ffc600;
+  }
+  
+  .footer-top_support {
+    flex: 0 0 20%;
+    padding-bottom: 24px;
+  }
+  
+  .footer-top_contact {
+    flex: 0 0 30%;
+    padding-bottom: 24px;
+  }
+  
+  .footer-top_contact-detail p {
+    display: flex;
+    align-items: flex-start;
+    padding-bottom: 24px;
+  }
+  
+  .footer-top_contact-detail p span {
+    line-height: 1.25rem;
+  }
+  
+  .footer-top_contact-detail p i {
+    color: #ffc600;
+    padding-right: 12px;
+    line-height: 1.25rem;
+    padding-top: 2px;
+  }
+  
+  .footer-copyright {
+    background-color: #021d3a;
+    padding: 24px 32px;
+  }
+  
+  .footer-copyright-container {
+    max-width: 1200px;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+  }
+  .footer-copyright p{
+    color: #fff;
+  }
+  
+ 

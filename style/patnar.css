@@ -1,0 +1,20 @@
+#patnar-logo-part{
+    background-color: #edf0f2;
+    padding: 40px 0 80px;
+  }
+  
+  .patnar-logo-container {
+    max-width: 1200px;
+    height: 220px;
+    display: flex;
+    align-items: flex-end;
+    margin: auto;
+    padding: 0 32px;
+  }
+  
+  .patnar-logo_img img {
+    margin: auto;
+    padding-top: 20px;
+  }
+  
+  
